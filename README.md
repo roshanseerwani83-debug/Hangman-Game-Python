@@ -49,4 +49,4 @@ Roshan Seerwani
 
 ### Gameplay and Attempt Tracking
 
-![Gameplay](hangman_gameplay.png)
+![Gameplay](hangman_gameplay.png.png)
