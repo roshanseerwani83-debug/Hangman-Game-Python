@@ -36,3 +36,17 @@ This project is a text-based Hangman Game developed using Python. The player mus
 ## Author
 
 Roshan Seerwani
+
+## Screenshots
+
+### Winning the Game 1
+
+![Winning Output](hangman_win_1.png.png)
+
+### Winning the Game 2
+
+![Winning Output](hangman_win_2.png.png)
+
+### Gameplay and Attempt Tracking
+
+![Gameplay](hangman_gameplay.png)
